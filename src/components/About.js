@@ -41,7 +41,7 @@ const About = () => {
       I have completed my Secondary education with 96.8 percentage from the Bhashyam junior college , Guntur, Andhra Pradesh.
       </p>
       <p>
-      I have completed my primary education with 93.1 percentage from the Bhashyam public college , Guntur, Andhra Pradesh
+      I have completed my primary education with 93.1 percentage from the Bhashyam public School , Guntur, Andhra Pradesh
       </p>
       
     
